@@ -1,1 +1,0 @@
-This is readme from local project 1
